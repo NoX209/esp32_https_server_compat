@@ -17,12 +17,12 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/fhessel/esp32_https_server_compat.git"
+    "url": "https://github.com/NoX209/esp32_https_server_compat.git"
   },
   "dependencies": [
     {
       "name": "esp32_https_server",
-      "version": "~1.0.0"
+      "url": "https://github.com/NoX209/esp32_https_server.git"
     }
   ],
   "license": "LGPL-2.1-only",
