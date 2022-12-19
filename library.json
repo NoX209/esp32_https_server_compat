@@ -22,11 +22,11 @@
   "dependencies": [
     {
       "name": "esp32_https_server",
-      "url": "https://github.com/NoX209/esp32_https_server.git"
+      "url": "https://github.com/NoX209/esp32_https_server.git#dev/make_it_esp32_https_server_compat_ready"
     }
   ],
   "license": "LGPL-2.1-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "frameworks": "arduino",
   "platforms": ["espressif32"]
 }
